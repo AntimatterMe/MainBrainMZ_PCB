@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-07-30T10:08:15Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "MainBrain MZ PCB v268"
+        },
+        "Owner": "Larry Knight <antimatter@antimatter.me>",
+        "Size": {
+            "X": 96.52,
+            "Y": 63.5
+        }
+    }
+}
